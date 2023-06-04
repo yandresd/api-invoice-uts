@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\Producto.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\dao\IProductoDao.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\services\ClienteServiceImpl.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\ApiInvoiceWebServicesApplication.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\Region.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\controllers\FacturaRestController.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\Cliente.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\Usuario.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\services\IClienteService.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\dao\IClienteDao.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\controllers\ClienteRestController.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\dao\IFacturaDao.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\ItemFactura.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\Role.java
+C:\Users\Usuario\Documents\Spring Tools\Programacion Web\sts-4.18.0.RELEASE\api-invoice-web-services\src\main\java\api\invoice\web\services\models\entities\Factura.java
